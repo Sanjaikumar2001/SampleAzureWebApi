@@ -16,21 +16,21 @@ jobs:
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.0.x'  # or 8.0.x if you're using .NET 8
+          dotnet-version: '8.0.x' # or '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore ./SampleAzureWebApi/SampleAzureWebApi.csproj
 
       - name: Build
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build ./SampleAzureWebApi/SampleAzureWebApi.csproj --no-restore --configuration Release
 
       - name: Publish
-        run: dotnet publish -c Release -o ./publish
+        run: dotnet publish ./SampleAzureWebApi/SampleAzureWebApi.csproj -c Release -o ./publish
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
         with:
-          app-name: samplewebapi2025  # Make sure this matches your Azure App Service name
+          app-name: samplewebapi2025
           slot-name: production
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: ./publish
