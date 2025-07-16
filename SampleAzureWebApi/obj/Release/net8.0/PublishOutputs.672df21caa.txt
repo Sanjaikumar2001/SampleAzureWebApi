@@ -1,0 +1,11 @@
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\SampleAzureWebApi.exe
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\SampleAzureWebApi.dll
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\SampleAzureWebApi.deps.json
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\SampleAzureWebApi.runtimeconfig.json
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\SampleAzureWebApi.pdb
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanjaikumar.s\source\repos\SampleAzureWebApi\SampleAzureWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
