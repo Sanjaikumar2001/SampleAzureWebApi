@@ -54,7 +54,7 @@ steps:
 # Deploy to Azure App Service
 - task: AzureWebApp@1
   inputs:
-    azureSubscription: 'Sanjaikumar2001'
+    azureSubscription: 'SampleAzureAPI'
     appType: 'webApp'
     appName: 'samplewebapi2025'
     package: '$(Build.ArtifactStagingDirectory)/webapp.zip'
